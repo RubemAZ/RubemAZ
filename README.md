@@ -1,4 +1,13 @@
-# Hope I can help. [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-mazetto/)      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzFbjPxMbscJVGlNrnCkkLBDKMkDmKKRDrPqzVfhKWMxljjlnrmJhcRZqBDmcvlPWcfQ)      [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Rubem9)
+# Contact [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-mazetto/)      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzFbjPxMbscJVGlNrnCkkLBDKMkDmKKRDrPqzVfhKWMxljjlnrmJhcRZqBDmcvlPWcfQ)      [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Rubem9)
+
+
+<div style=display: flex>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubemAZ&theme=aura"/>
+  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66cefb0d&is=66cda98d&hm=96bc0452c3656d095fd67396f051bb31427483fb7655a6d61aa8813afdb43385&"/>  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RubemAZ&theme=aura"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubemAZ&theme=aura"/>  
+
+</div>
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
