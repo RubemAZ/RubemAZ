@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1500&color=ffffff&center=true&vCenter=true&random=false&width=475&lines=Hello+there!+Welcome!" alt="Typing SVG" />
-  </a>
-</div>
-
-<hr>
 
 <div style=display: flex>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubemAZ&theme=aura"/>
